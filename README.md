@@ -16,7 +16,7 @@ If you want/need to use "Switch", then will need the older version of react-rout
 
 3. Then set up the App.js, Router.js, components as needed
 
-4) Run `npm start`
+4. #### `npm start`
 
 ## To clone this project & run locally:
 
