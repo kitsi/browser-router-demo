@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### `npx create-react-app browser-router-demo`
+1. #### `npx create-react-app browser-router-demo`
 
-#### `npm install react-router-dom`
+2. #### `npm install react-router-dom`
 
 Notice version of react-router-dom installed in the package.json file.
 This project uses version 6.2.1, which is relatively new & has replaced "Switch" statements with "Routes"
@@ -14,15 +14,19 @@ If you want/need to use "Switch", then will need the older version of react-rout
 
 #### `npm install react-router-dom@5`
 
+3. Then set up the App.js, Router.js, components as needed
+
+4) Run `npm start`
+
 ## To clone this project & run locally:
 
-#### `git clone `
+1. #### `git clone `
 
-### `cd browser-router-demo`
+2. ### `cd browser-router-demo`
 
-### `npm install`
+3. ### `npm install`
 
-### `npm start`
+4. ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
