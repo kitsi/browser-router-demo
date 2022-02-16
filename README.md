@@ -22,11 +22,11 @@ If you want/need to use "Switch", then will need the older version of react-rout
 
 1. #### `git clone `
 
-2. ### `cd browser-router-demo`
+2. #### `cd browser-router-demo`
 
-3. ### `npm install`
+3. #### `npm install`
 
-4. ### `npm start`
+4. #### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
