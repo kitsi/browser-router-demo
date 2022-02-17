@@ -14,7 +14,7 @@ If you want/need to use "Switch", then will need the older version of react-rout
 
 #### `npm install react-router-dom@5`
 
-3. Then set up the App.js, Router.js, components as needed
+3. Then set up the App.js, Router.js, and files within the components directory as needed
 
 4. #### `npm start`
 
